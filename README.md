@@ -10,5 +10,5 @@ mvn clean install
 
 # Usage
 ```bash
-java -jar target\xspeedit-1.0.jar
+java -jar target/xspeedit-1.0.jar
 ```
